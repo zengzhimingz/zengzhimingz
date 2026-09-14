@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm zengzhimingz
+# 👋 Hi, I'm 曾治铭
 
 **AI Products · Interactive Experiences · Practical Tools**
 
