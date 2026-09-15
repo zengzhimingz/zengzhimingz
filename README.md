@@ -22,6 +22,12 @@
 - 🌱 持续探索自然语言交互、可视化表达与 AI 工作流。
 - 💬 欢迎通过项目 Issues 交流想法、反馈体验或提出改进建议。
 
+<p align="center">
+  <a href="https://zzm-portfolio.pages.dev/">
+    <img src="https://img.shields.io/badge/个人网站-进入作品集-222222?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="个人网站 · 点击进入作品集" />
+  </a>
+</p>
+
 ## 🛠️ Tech I use
 
 <div align="center">
