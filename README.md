@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://zzm-portfolio.pages.dev/">
-    <img src="https://img.shields.io/badge/个人网站-进入作品集-222222?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="个人网站 · 点击进入作品集" />
+    <img src="https://img.shields.io/badge/进入我的个人网站-点击探索作品集-0969DA?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=0969DA" alt="进入我的个人网站 · 点击探索作品集" width="420" height="56" />
   </a>
 </p>
 
